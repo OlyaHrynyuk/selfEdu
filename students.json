@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": 1,
+    "first_name": "Ольга",
+    "last_name": "Гринюк",
+    "email": "olhahryniuk@gmail.com",
+    "phone": "+380123456789",
+    "enrolled_courses": [
+      "1"
+    ],
+    "progress": {
+      "1": {
+        "completed_lessons": [
+          "3"
+        ],
+        "overall_progress": 50
+      }
+    }
+  }
+]
